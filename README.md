@@ -1,4 +1,4 @@
-### Hi there, I'm Yasuharu 
+### Hi there, I'm Yasuharu 👨🏻‍💻
 
 Web developer from Japan.
 
