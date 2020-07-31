@@ -1,6 +1,10 @@
-### Hi there, I'm Yasuharu 👨🏻‍💻
 
-Web developer from Japan.
+<div align="center">
+  <h3>Hi there, I'm Yasuharu 👨🏻‍💻</h3>
+  <p>Web developer from Japan.</p>
+</div>
+
+****
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fedorovaru&count_private=true&show_icons=true&theme=dark" />
