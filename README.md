@@ -1,7 +1,6 @@
 
 <div align="center">
   <h3>Hi there 👨🏻‍💻</h3>
-  <p>Web developer from Japan 🌊</p>
 </div>
 
 ****
